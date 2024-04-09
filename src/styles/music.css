@@ -1,0 +1,27 @@
+/* styles.css */
+
+.bg-white-dark {
+    background-color: #FFFFFF;
+}
+
+.bg-black-dark {
+    background-color: #000000;
+}
+
+.text-black-dark {
+    color: #000000;
+}
+
+.text-white-dark {
+    color: #FFFFFF;
+}
+
+.border-neutral-200-dark {
+    border-color: #E5E7EB;
+    /* Use the corresponding color */
+}
+
+.border-slate-800-dark {
+    border-color: #1F2937;
+    /* Use the corresponding color */
+}

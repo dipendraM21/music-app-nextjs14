@@ -9,7 +9,7 @@ export default function navbar({ className }: { className?: string }) {
 
  return (
   <div
-   className={cn("fixed top-10 inset-x-0 max-w-2xl mx-auto z-50", className)}
+   className={cn("fixed top-10 inset-x-0 max-w-2xl mx-auto z-50 border-double border-4 border-sky-500 rounded-full " )}
   >
    <Menu setActive={setActive}>
     <Link href={"#"}>
